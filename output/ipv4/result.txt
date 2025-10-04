@@ -1,53 +1,34 @@
 🕘️更新时间,#genre#
-2025-10-04 06:21:18,http://61.149.251.202:4022/rtp/239.3.1.105:8092
+2025-10-04 18:20:43,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://61.149.251.202:4022/rtp/239.3.1.105:8092
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,http://61.149.251.202:4022/rtp/239.3.1.105:8092
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 💰央视付费频道,#genre#
 文化精品,http://218.8.87.96:4000/rtp/229.58.190.189:5000
 文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-央视台球,http://183.11.239.36:808/hls/73/index.m3u8
-央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
-央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-第一剧场,http://218.8.87.96:4000/rtp/229.58.190.21:5000
-第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
-第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
-高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://218.8.87.96:4000/rtp/229.58.190.21:5000
+高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
+高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
+高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
 世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-世界地理,http://183.11.239.36:808/hls/11/index.m3u8
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
-世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东方卫视,http://8.134.110.147:5300/
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://8.134.110.147:5300/
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -64,6 +45,7 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+上海纪实,http://139.129.231.228/rtp/239.21.1.171:5002
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
@@ -76,9 +58,9 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
@@ -96,7 +78,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 淘剧场,http://115.171.216.75:4000/rtp/225.1.8.37:8002
 淘娱乐,http://115.171.216.75:4000/rtp/225.1.8.61:8002
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
@@ -122,7 +103,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 山东体育,http://123.168.95.21:4000/rtp/239.21.1.141:5002
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
