@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-11 18:21:45,https://www.freetv.top/migu/641886683.m3u8?migutoken=5f46d328a6ba4b17e3c54dd4c9542e6761b3b2b498ff12429b0664996d9561fcb2fbb67556b110f56102b207c8cd9feb8c0fbe2cbbadf8e18bc3fe6fc78ee06a9cb59dfc8ba532ebef77d7cf2a
+2025-10-12 06:22:59,https://www.freetv.top/migu/641886683.m3u8?migutoken=5f46d328a6ba4b17e3c54dd4c9542e6761b3b2b498ff12429b0664996d9561fcb2fbb67556b110f56102b207c8cd9feb8c0fbe2cbbadf8e18bc3fe6fc78ee06a9cb59dfc8ba532ebef77d7cf2a
 
 📺央视频道,#genre#
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=5f46d328a6ba4b17e3c54dd4c9542e6761b3b2b498ff12429b0664996d9561fcb2fbb67556b110f56102b207c8cd9feb8c0fbe2cbbadf8e18bc3fe6fc78ee06a9cb59dfc8ba532ebef77d7cf2a
@@ -9,6 +9,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=04826a9d5cfc1d3166d
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=38a08d31f79563a15b6c38307b16c1f1fd2715f58a1bff21d307adaa6597fb3ea267812ba6ac28a74fa0648f0a2003c0d93e137f0257353bff9dedc7eff0cc871a38e97a269bf9ab6e14a4171d
 CCTV-6,https://jzb.wwkejishe.top/?id=584
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=e78f83938702d1bbe1b942fbec9a4863f5e3233d946d4cb9d5650315c000e4b18fbeeecf6ea2debe700775517292edb56b8b5d596b464d112fbf4dc3fab926b0f9ec01cf52b7a4a97b4be82ad4
+CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=0a76cbc0bc4ad3f543ea840f676f97981a6e915839a57cc8d1b693f680273e8fa445b7accee1b44eeaa3d77c9c020cb6582b3e96d0f07aeb2f965b3ed20f968f94a9d3064ca1a4249d3e9911c9
 CCTV-8,https://jzb.wwkejishe.top/?id=586
 CCTV-9,https://www.freetv.top/migu/673168140.m3u8?migutoken=50c8dc09429117d7c6a5e9b1aefb676dca3f207436fe4e3d871408aa5c16bfef444b9037198e5b95b6969f927c3c95dab220c147eb00b67cb1411f66f3d2536212a8bebb7d1f4d33717f8b1442
 CCTV-10,https://jzb.wwkejishe.top/?id=588
@@ -18,8 +19,8 @@ CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b4381
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://jzb.wwkejishe.top/?id=592
-CCTV-15,https://jzb.wwkejishe.top/?id=593
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=1f0018205f02ce70108aadafba7fcfec39c929e9d2523f79a212c4165da5603e21b87da7118e6b0cea3eeeeccd815040f7765b3fb939716daf20de611d8c89feb7e0fbd64b5fec9a152f7776b9
 CCTV-17,https://jzb.wwkejishe.top/?id=594
 
 💰央视付费频道,#genre#
@@ -30,10 +31,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 📡卫视频道,#genre#
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-贵州卫视,https://jzb.wwkejishe.top/?id=619
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河北卫视,https://jzb.wwkejishe.top/?id=615
-山西卫视,https://jzb.wwkejishe.top/?id=624
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
 陕西卫视,https://jzb.wwkejishe.top/?id=603
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
