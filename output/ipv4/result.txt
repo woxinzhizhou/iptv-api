@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-22 18:28:03,https://httop.top/tv-cctv3
+2025-10-23 06:24:53,https://httop.top/tv-cctv3
 
 📺央视频道,#genre#
 CCTV-3,https://httop.top/tv-cctv3
@@ -15,15 +15,9 @@ CCTV-6,https://httop.top/tv-cctv6
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,http://218.8.87.96:4000/rtp/229.58.190.190:5000
-风云音乐,http://sh.lnott.top:880/dx73.m3u8
-风云音乐,http://120.238.94.10:9901/tsfile/live/1089_1.m3u8
-风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
-风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
-风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
 第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
 第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
@@ -32,6 +26,7 @@ CCTV-6,https://httop.top/tv-cctv6
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
@@ -39,13 +34,7 @@ CCTV-6,https://httop.top/tv-cctv6
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://218.8.87.96:4000/rtp/229.58.190.29:5000
-兵器科技,http://sh.lnott.top:880/dx81.m3u8
-兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
-兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
-兵器科技,rtsp://115.153.247.80/PLTV/88888888/224/3221227004/86132185.smil
-兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
@@ -105,14 +94,11 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://115.171.216.75:4000/rtp/225.1.8.37:8002
-淘娱乐,http://115.171.216.75:4000/rtp/225.1.8.61:8002
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 纬来电影,https://tv543.cc/Smart.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
-IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
@@ -137,7 +123,18 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
+睛彩广场舞,http://www.douzhicloud.site:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://lt.hxtre.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+快乐垂钓,http://120.55.49.231:3095/rtp/233.50.201.109:5140
+快乐垂钓,http://115.150.63.77:9902/tsfile/live/0001_42.m3u8
+快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/KLCDMPP360.m3u8
+快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+快乐垂钓,rtsp://115.153.245.70/PLTV/88888888/224/3221226834/59781974.smil
+快乐垂钓,rtsp://115.153.254.81/PLTV/88888888/224/3221226834/59781974.smil
+快乐垂钓,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226834/59781974.smil
+快乐垂钓,rtsp://115.153.212.72/PLTV/88888888/224/3221226834/59781974.smil
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
