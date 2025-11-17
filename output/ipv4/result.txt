@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 18:32:36,http://bxtv.3a.ink/migu.php?id=cctv1
+2025-11-18 06:25:58,http://bxtv.3a.ink/migu.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://bxtv.3a.ink/migu.php?id=cctv1
@@ -34,24 +34,18 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 风云音乐,rtsp://115.153.245.70/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.247.80/PLTV/88888888/224/3221226994/86128897.smil
 风云音乐,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226994/86128897.smil
-第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 第一剧场,http://61.184.46.85:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
-第一剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 高尔夫网球,rtsp://115.153.245.70/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil
 高尔夫网球,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil
+世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 兵器科技,http://sh.lnott.top:880/dx81.m3u8
 兵器科技,http://120.238.94.10:9901/tsfile/live/1096_1.m3u8
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
@@ -109,7 +103,11 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
+纬来电影,http://gotv.k.vu/api.php?id=videolandmovie
+纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
@@ -133,7 +131,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 快乐垂钓,http://111.196.133.168:8012/rtp/239.3.1.164:8001
