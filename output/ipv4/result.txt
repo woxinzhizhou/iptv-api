@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 06:23:26,http://183.220.107.138:4022/rtp/239.11.0.109:5140
+2025-12-15 18:28:45,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 
 📺央视频道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -18,8 +18,9 @@ CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
 高尔夫网球,http://171.83.103.119:9999/rtp/239.69.1.83:10138
 高尔夫网球,http://171.125.90.120:6001/rtp/226.0.2.217:9648
-世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
+世界地理,http://ygbh.site/php/bfgd.php?id=177
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
@@ -64,7 +65,6 @@ CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
@@ -80,8 +80,6 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
