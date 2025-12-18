@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-18 18:27:04,https://cdn3.163189.xyz/163189/cctv13
+2025-12-19 06:25:22,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -18,17 +18,16 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
+上海新闻综合,https://migu.188766.xyz/
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海第一财经,http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
 
 🌊港·澳·台,#genre#
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://hls.168.us.kg/u/84/master.m3u8
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
@@ -43,7 +42,6 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 
 🎬电影频道,#genre#
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
-天映经典,https://migu.188766.xyz/
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🎥咪咕直播,#genre#
