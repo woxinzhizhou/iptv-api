@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-04 18:42:21,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-03-05 06:37:11,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -38,8 +38,9 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🎥咪咕直播,#genre#
