@@ -1,12 +1,18 @@
 🕘️更新时间,#genre#
-2026-05-01 06:59:41,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+2026-05-01 19:11:00,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM
 
 📺央视频道,#genre#
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM
 
 💰央视付费频道,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+风云剧场,https://gd202.tv1288.xyz/tsfile/live/1049_1.m3u8
 
 📡卫视频道,#genre#
+广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
+贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
+海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8
+深圳卫视,https://gd202.tv1288.xyz/tsfile/live/1042_1.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -19,8 +25,8 @@
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -43,7 +49,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 江苏体育,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E4%BD%93%E8%82%B2
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
