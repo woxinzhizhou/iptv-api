@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-12 07:00:14,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+2026-05-12 20:02:08,http://pull-hls-f11.douyincdn.com/media/stream-407586649724682924.m3u8?expire=1779152803&sign=99aa28ff2267f0c59d0c71b0ef5c994a&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202605120906426D623928AE4920F7472A-7fbyqQ
 
 📺央视频道,#genre#
+CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407586649724682924.m3u8?expire=1779152803&sign=99aa28ff2267f0c59d0c71b0ef5c994a&exp_hrchy=w1&neq=1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202605120906426D623928AE4920F7472A-7fbyqQ
 
 💰央视付费频道,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -19,9 +20,9 @@
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
@@ -36,9 +37,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 天映经典,https://o11.163189.xyz/stream/live/ccm/
-无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
