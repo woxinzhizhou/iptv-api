@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-05-25 07:01:03,http://ls.qingting.fm/live/1099.m3u8
+2026-05-25 21:09:08,http://a.xiongnas.top:8888/rtp/239.3.1.39:8300
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+广西卫视,http://a.xiongnas.top:8888/rtp/239.3.1.39:8300
 
 ☘️浙江频道,#genre#
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
@@ -28,9 +29,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
-靖天资讯,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
-靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🎬电影频道,#genre#
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
