@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-01 07:05:01,http://ls.qingting.fm/live/1099.m3u8
+2026-06-02 00:00:30,http://ls.qingting.fm/live/1099.m3u8
 
 📺央视频道,#genre#
 
@@ -18,11 +18,11 @@
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -36,6 +36,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 天映经典,https://o11.163189.xyz/stream/live/ccm/
+无线星河,https://cdn6.163189.xyz/163189/tvbxh
 
 🎥咪咕直播,#genre#
 
