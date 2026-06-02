@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-02 07:35:39,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+2026-06-02 22:06:18,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
@@ -19,9 +18,9 @@
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
-翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://cdn6.163189.xyz/163189/fct
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
@@ -39,6 +38,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
+无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
