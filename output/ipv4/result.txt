@@ -1,18 +1,17 @@
 🕘️更新时间,#genre#
-2026-06-28 19:52:57,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-06-29 07:06:37,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=10
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-11,http://223.75.149.129:9906/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2
 
 💰央视付费频道,#genre#
-文化精品,http://192.151.150.154/live/ysjp.m3u8
-文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+文化精品,http://192.151.150.154/live/ysjp.m3u8
 文化精品,http://107.150.60.122/live/ysjp.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
@@ -20,17 +19,16 @@ CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 高尔夫网球,http://207.56.13.146:81/cdnlive/gefwq.m3u8
 世界地理,http://192.151.150.154/live/sjdl.m3u8
-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-兵器科技,http://192.151.150.154/live/gfjs.m3u8
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+兵器科技,http://192.151.150.154/live/gfjs.m3u8
 兵器科技,http://207.56.13.146:81/cdnlive/gfjs.m3u8
 
 📡卫视频道,#genre#
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://vpn.famcloud.top:9878/rtp/239.3.1.132:8012
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -41,16 +39,15 @@ CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=2
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://192.151.150.154/live/sxwshd.m3u8
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-山西卫视,http://106.46.169.202:9000/hls/39/index.m3u8
-山西卫视,http://107.150.60.122/live/sxwshd.m3u8
+山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
+山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+山西卫视,http://192.151.150.154/live/sxwshd.m3u8
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+山西卫视,http://107.150.60.122/live/sxwshd.m3u8
+山西卫视,http://106.46.169.202:9000/hls/39/index.m3u8
 四川卫视,http://192.151.150.154/live/scwshd.m3u8
-深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -82,13 +79,14 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
@@ -99,8 +97,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
 靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
