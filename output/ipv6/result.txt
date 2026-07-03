@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-03 20:14:35,http://ls.qingting.fm/live/1099.m3u8
+2026-07-04 07:07:38,http://ls.qingting.fm/live/1099.m3u8
 
 📺央视频道,#genre#
 
@@ -15,6 +15,7 @@
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -28,6 +29,9 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
+天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
