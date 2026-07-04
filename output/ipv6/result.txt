@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 19:32:36,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
+2026-07-05 07:05:04,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
 
 📺央视频道,#genre#
 CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u8?expire=6a50c3ab&sign=070f9c37ad3a8bb2e34edefb037983df&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-202607031804263FBA01D0DD5362E5EA3B-NVx2Sh
@@ -16,10 +16,6 @@ CCTV-13,http://pull-hls-f26.douyinliving.com/media/stream-696107587393815378.m3u
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 纬来育乐,http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
@@ -33,11 +29,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
-天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-天映经典,http://o11.163189.xyz/stream/live/ccm/
-天映经典,https://o11.163189.xyz/stream/live/ccm/
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
