@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 19:56:32,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+2026-07-23 07:06:58,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 
 📺央视频道,#genre#
 
@@ -29,8 +29,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
