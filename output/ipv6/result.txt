@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-30 07:06:04,http://r.jdshipin.com/ZQ4kN
+2026-07-30 19:59:13,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 📺央视频道,#genre#
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 💰央视付费频道,#genre#
 
@@ -25,8 +26,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
