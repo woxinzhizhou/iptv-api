@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-08-05 20:05:43,http://r.jdshipin.com/ZQ4kN
+2026-08-06 07:04:40,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 📺央视频道,#genre#
+CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 💰央视付费频道,#genre#
 
@@ -35,3 +36,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🏀体育频道,#genre#
 广东体育,https://cdn.qd.je/163189/gdty
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
