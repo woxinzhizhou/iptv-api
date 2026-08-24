@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 18:43:10,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+2026-08-25 06:29:50,http://ls.qingting.fm/live/1099.m3u8
 
 📺央视频道,#genre#
 
@@ -8,8 +8,7 @@
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江生活,http://ls.qingting.fm/live/1099.m3u8
 
 ☘️北京频道,#genre#
 
@@ -30,3 +29,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
