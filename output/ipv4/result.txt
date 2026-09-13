@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-13 22:09:42,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-14 07:58:47,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -9,17 +9,17 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 央视台球,http://107.150.60.122/live/ystq.m3u8
+央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue
 第一剧场,https://live.264788.xyz/channel/diyijuchang
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 风云足球,http://107.150.60.122/live/fyzq.m3u8
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://192.151.150.154/live/fyzq.m3u8
 风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 
@@ -38,6 +38,7 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -65,16 +66,16 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 纬来育乐,rtmp://220.130.201.73/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 Now剧集,http://t.061899.xyz/tl/js/api.php?id=nowhjt
-靖天资讯,http://45.192.97.170:8880/play/1326.m3u8
 靖天资讯,http://t.061899.xyz/tl/js/js.php?id=jtzxt
+靖天资讯,http://45.192.97.170:8880/play/1326.m3u8
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 靖天资讯,http://nmk.ioapk.com:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
 靖天资讯,http://220.135.64.124:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -82,16 +83,11 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
-靖天映画,http://t.061899.xyz/tl/js/js.php?id=jtyh
 靖天映画,http://45.192.97.170:8880/play/1267.m3u8
-靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
-靖天映画,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105
-靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
-靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,http://45.192.97.170:8880/play/1268.m3u8
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-天映经典,http://j.s.bkpcp.top/jj/tyjd
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
+天映经典,http://j.s.bkpcp.top/jj/tyjd
 无线星河,http://j.s.bkpcp.top/js/tvbxhpdg
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 东森洋片,http://45.192.97.170:8880/play/1287.m3u8
