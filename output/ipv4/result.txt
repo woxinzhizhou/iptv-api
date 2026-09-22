@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 00:20:42,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-09-22 08:42:38,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
@@ -15,11 +15,11 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 第一剧场,https://live.264788.xyz/channel/diyijuchang
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
 风云足球,http://107.150.60.122/live/fyzq.m3u8
-风云足球,http://173.208.212.130:8181/720p/fyzq.m3u8
 风云足球,http://192.151.150.154/live/fyzq.m3u8
-风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 
@@ -39,6 +39,7 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -70,8 +71,8 @@ Now剧集,http://t.061899.xyz/tl/js/api.php?id=nowhjt
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -90,7 +91,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,http://t.061899.xyz/tl/168.php?id=tyjd
 无线星河,http://j.s.bkpcp.top/js/tvbxhpdg
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
+东森洋片,http://free.cnlive.club/channel/n7160b4.m3u8?q=111.170.171.148
+东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454
 
 🎥咪咕直播,#genre#
 
@@ -114,7 +116,5 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
 睛彩广场舞,rtsp://222.161.218.244:554/PLTV/88888888/224/3221226039/10000100000000060000000015242276_0.smil
 睛彩广场舞,rtsp://139.215.98.88/PLTV/88888888/224/3221226039/10000100000000060000000015242276_0.smil
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
-JJ斗地主,http://8.155.43.98:35455/huya/30814432
-JJ斗地主,http://1.14.124.206:35455/huya/30814432
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
