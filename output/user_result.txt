@@ -1,33 +1,25 @@
 🕘️更新时间,#genre#
-2026-10-08 01:21:10,http://115.171.216.32:4000/rtp/225.1.8.89:8000
+2026-10-08 09:41:55,http://115.171.216.32:4000/rtp/225.1.8.89:8000
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=49defb7e44f6b67e6de4c7322d9448d3
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
 💰央视付费频道,#genre#
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球,http://107.150.60.122/live/ystq.m3u8
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-央视台球,http://173.208.212.130:8181/720p/ystq.m3u8
-央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
-央视台球,http://183.11.239.36:808/hls/73/index.m3u8
-央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
-央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue
-风云音乐,http://183.10.180.112:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 第一剧场,https://live.264788.xyz/channel/diyijuchang
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-风云足球,http://192.151.150.154/live/fyzq.m3u8
 风云足球,http://107.150.60.122/live/fyzq.m3u8
+风云足球,http://192.151.150.154/live/fyzq.m3u8
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 兵器科技,https://live.264788.xyz/channel/bingqikeji
 
@@ -47,6 +39,7 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -56,6 +49,8 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8?zzhed
 
 ☘️北京频道,#genre#
+北京财经,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv5&videoTVChannel=btv5&P2PChannelID=pd://cctv_p2p_hdbtv5&tai=btv5&VideoName=btv5&channelID=btv5
+北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
@@ -88,6 +83,8 @@ Now剧集,http://t.061899.xyz/tl/js/api.php?id=nowhjt
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 
 🎬电影频道,#genre#
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+纬来电影,http://45.192.97.170:8880/play/1173.m3u8
 纬来电影,http://free.cnlive.club/channel/581b458b.m3u8?q=111.170.171.148
 靖天映画,http://45.192.97.170:8880/play/1267.m3u8
 靖天戏剧,http://45.192.97.170:8880/play/1268.m3u8
@@ -116,10 +113,10 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://154.12.37.196:5555/tvbox/公众号好享生活小助手/接口获取/代理.php?id=http://38.75.136.137:82/live1/jsb1.m3u8?id=tjtv5&usign=
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 睛彩广场舞,http://45.192.97.170:8880/play/1102.m3u8
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 JJ斗地主,http://1.14.124.206:35455/huya/30814432
